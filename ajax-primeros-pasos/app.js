@@ -6,7 +6,7 @@ function cargarDatos(){
    const xhr = new XMLHttpRequest();
 
    // Abre la conexión
-   xhr.open("GET", "datos.txt", "true");  // (método, url, async)
+   xhr.open("GET", "datos.txt", true);  // (método, url, async)
 
    // Cuándo la conexión termina de cargar
    xhr.onload = function(){

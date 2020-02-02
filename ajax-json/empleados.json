@@ -1,0 +1,22 @@
+[
+     {
+          "id" : 1,
+          "nombre" : "Alexis Dominguez",
+          "empresa" : "Hermodo",
+          "puesto" : "CEO"
+     },
+     
+     {
+          "id" : 2,
+          "nombre" : "Daniel Morales",
+          "empresa" : "Hermodo",
+          "puesto" : "CMO"
+     },
+
+     {
+          "id" : 3,
+          "nombre" : "Raúl Rocha",
+          "empresa" : "Hermodo",
+          "puesto" : "CTO"
+     }
+]
